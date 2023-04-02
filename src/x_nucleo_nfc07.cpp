@@ -45,7 +45,7 @@ void X_Nucleo_NFC07::NFC07A1_LED_Init(void)
   }
 }
 
-void X_Nucleo_NFC07::NFC07A1_LED_DeInit(NFC07A1_Led_E led)
+void X_Nucleo_NFC07::NFC07A1_LED_DeInit(void)
 {
 
 }
