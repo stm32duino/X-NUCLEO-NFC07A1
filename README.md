@@ -1,14 +1,8 @@
 # X-NUCLEO-NFC07A1
 
 Arduino library to support the X-NUCLEO-NFC07A1 expansion board. The X-NUCLEO-NFC07A1 dynamic NFC/RFID tag IC expansion board is based on 
-the ST25DV07K NFC Type V/RFID tag IC with a dual interface 4 Kbits EEPROM that also features an I²C interface. It can be powered by the pin 
+the ST25DV64KC NFC Type V/RFID tag IC with a 64-Kbit dual interface EEPROM that also features an I²C interface. It can be powered by the pin 
 of Arduino connector or directly by the received carrier electromagnetic field.
-
-## Dependenciy
-
-The X-NUCLEO-NFC07A1 library requires the following STM32duino library:
-
-* STM32duino ST25DV: https://github.com/stm32duino/ST25DV
 
 ## Examples
 
@@ -44,5 +38,5 @@ The X-NUCLEO-NFC07A1 library requires the following STM32duino library:
 You can find the source files at  
 https://github.com/stm32duino/X-NUCLEO-NFC07A1
 
-The ST25DV07K datasheet is available at  
-http://www.st.com/content/st_com/en/products/nfc/st25-nfc-rfid-tags-readers/st25-dynamic-nfc-tags/st25dv-series-dynamic-nfc-tags/st25dv07k.html
+The ST25DV64KC datasheet is available at  
+https://www.st.com/resource/en/datasheet/st25dv64kc.pdf
